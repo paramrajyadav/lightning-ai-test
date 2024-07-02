@@ -1,0 +1,6 @@
+xdg-open http://localhost:3000
+
+rm -rf .git
+
+git add .
+git push -u origin main
